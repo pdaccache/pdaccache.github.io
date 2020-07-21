@@ -1,1 +1,1 @@
-alert("HI kifkon");
+window.scrollBy(0, 100);
