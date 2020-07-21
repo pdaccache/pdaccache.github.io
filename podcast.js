@@ -1,1 +1,3 @@
-window.scrollBy(0, 1500);
+
+var el = document.querySelector('.package__head');
+el.scrollIntoView(true);
