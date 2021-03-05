@@ -1,1 +1,0 @@
-cordova.InAppBrowser.open('https://covax.moph.gov.lb/impactmobile/vaccine', '_blank', 'location=yes,hideurlbar=yes,closebuttoncolor=#000000,toolbarposition=top');
